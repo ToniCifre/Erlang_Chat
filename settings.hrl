@@ -1,0 +1,7 @@
+-define ( MyName, << "Hierba" >> ).
+-define ( WarningColor, [1,0,0] ).
+-define ( ServerNameColor, [1,1,1] ).
+-define ( InfoMessageColor, [1,0,0] ).
+-define ( MyNameColor, [0,5,0] ).
+-define ( MyMessageColor, [1,0,0] ).
+-define ( MessageColor, [0,0,0] ).
